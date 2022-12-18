@@ -1,38 +1,72 @@
-.App {
-  text-align: center;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.link {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.link:hover {
+  background-color: #ddd;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+nav {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+ul {
+  list-style: none;
+  display: flex;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+li {
+  margin: 0 10px;
+}
+
+/* .Privacy-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+} */
+
+.Privacy-logo {
+  width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.privacy-title {
+  font-size: 2em;
+}
+
+.privacy-policy h1,
+.privacy-policy h2 {
+  color: #333;
+}
+
+.privacy-policy p {
+  color: #555;
+  line-height: 1.5;
+}
+
+.privacy-policy ol,
+.privacy-policy ul {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.privacy-policy li {
+  margin: 10px 0;
 }

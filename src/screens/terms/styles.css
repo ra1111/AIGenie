@@ -1,0 +1,43 @@
+.Privacy-header {
+    text-align: center;
+    background-color: #eee;
+    padding: 20px 0;
+  }
+  
+  .Privacy-logo {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 40px;
+  }
+  
+  .privacy-title {
+    font-size: 2em;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  .privacy-policy h1,
+  .privacy-policy h2 {
+    color: #333;
+    margin: 20px 0 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .privacy-policy {
+      font-size: 1em;
+    }
+  }
+  
