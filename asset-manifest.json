@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AIGenie/static/css/main.6b776476.css",
+    "main.js": "/AIGenie/static/js/main.1f6b8eb0.js",
+    "static/js/787.0813c798.chunk.js": "/AIGenie/static/js/787.0813c798.chunk.js",
+    "static/media/whatsapp_chat-6.png": "/AIGenie/static/media/whatsapp_chat-6.2237dcf3a2d3d0d8c1d6.png",
+    "static/media/whatsapp_chat-5.png": "/AIGenie/static/media/whatsapp_chat-5.29b32a4aec20ce1d81f5.png",
+    "static/media/f1.png": "/AIGenie/static/media/f1.ad785dd507928e1dca4f.png",
+    "index.html": "/AIGenie/index.html",
+    "main.6b776476.css.map": "/AIGenie/static/css/main.6b776476.css.map",
+    "main.1f6b8eb0.js.map": "/AIGenie/static/js/main.1f6b8eb0.js.map",
+    "787.0813c798.chunk.js.map": "/AIGenie/static/js/787.0813c798.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b776476.css",
+    "static/js/main.1f6b8eb0.js"
+  ]
+}
